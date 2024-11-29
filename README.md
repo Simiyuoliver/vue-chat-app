@@ -4,6 +4,9 @@
 
 A comprehensive, feature-rich chat application built with Vue 3, designed to provide a modern, responsive, and intuitive communication experience.
 
+## 🔗 Repository
+- **GitHub Repository**: [https://github.com/Simiyuoliver/-vue-chat-app](https://github.com/Simiyuoliver/-vue-chat-app)
+
 ### 🔧 Tech Stack
 - **Framework**: Vue 3 with Vite
 - **State Management**: Pinia
@@ -30,6 +33,7 @@ A comprehensive, feature-rich chat application built with Vue 3, designed to pro
 - Intuitive navigation
 - Adaptive layout for multiple devices
 - Smooth, animated interactions
+- Free plan badge and upgrade options
 
 ### 4. Additional Views
 - Home dashboard
@@ -64,7 +68,7 @@ A comprehensive, feature-rich chat application built with Vue 3, designed to pro
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/vue-chat-app.git
+git clone https://github.com/Simiyuoliver/-vue-chat-app.git
 cd vue-chat-app
 ```
 
