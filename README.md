@@ -5,7 +5,7 @@
 A comprehensive, feature-rich chat application built with Vue 3, designed to provide a modern, responsive, and intuitive communication experience.
 
 ## 🔗 Repository
-- **GitHub Repository**: [https://github.com/Simiyuoliver/-vue-chat-app](https://github.com/Simiyuoliver/-vue-chat-app)
+- **GitHub Repository**: [https://github.com/Simiyuoliver/-vue-chat-app](https://github.com/oliversimiyu/vue-chat-app)
 
 ### 🔧 Tech Stack
 - **Framework**: Vue 3 with Vite
