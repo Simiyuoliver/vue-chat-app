@@ -68,7 +68,7 @@ A comprehensive, feature-rich chat application built with Vue 3, designed to pro
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Simiyuoliver/vue-chat-app.git
+git clone https://github.com/oliversimiyu/vue-chat-app.git
 cd vue-chat-app
 ```
 
